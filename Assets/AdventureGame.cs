@@ -5,8 +5,6 @@ using UnityEngine.UI;
 
 public class AdventureGame : MonoBehaviour
 {
-    // a change test
-
     //SerializeField makes var available in inspector.
     [SerializeField] Text textComponent;
     
